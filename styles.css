@@ -159,3 +159,10 @@ html {
 .rewards-container button:hover {
   background-color: #d2741c89;
 }
+
+.copyright-container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+}
